@@ -187,3 +187,7 @@ aside:hover{
 .books:hover{
     color: rgba(255, 255, 255, 0.692);
 }
+
+img:hover{
+    opacity: 0.5;
+}
